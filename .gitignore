@@ -5,6 +5,7 @@
 app.log
 
 # Python cache and system files
+.idea
 /.idea/
 *.py[cod]
 *.pyo
