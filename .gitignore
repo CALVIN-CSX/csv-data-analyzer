@@ -5,6 +5,7 @@
 app.log
 
 # Python cache and system files
-__pycache__/
+.idea
+__pycache__
 *.pyc
 .DS_Store
