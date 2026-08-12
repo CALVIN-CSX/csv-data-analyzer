@@ -39,5 +39,5 @@ This tool was designed with a focus on clean data structures and separation of c
 [008. Learned refactoring and implemented OOPS in old project](https://github.com/CALVIN-CSX/learning-python/blob/main/learn-log/008.Learned_refactoring_and_implemented_OOPS_in_old_project.md)
 
 ## 🙌 Acknowledgments
-* **Original Script Concept:** Special thanks to Gnanav T for collaborating on the original procedural v1.0 script.
-* **Architecture & Refactor:** Designed, modularized, and refactored into OOP (v2.0) by CALVIN-CSX.
+* **Original Script Concept:** Special thanks to [Gnanav T](https://github.com/gnanavt22) for collaborating on the original procedural v1.0 script.
+* **Architecture & Refactor:** Designed, modularized, and refactored into OOP (v2.0) by [CALVIN-CSX](https://github.com/CALVIN-CSX).
