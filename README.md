@@ -22,7 +22,7 @@ This tool was designed with a focus on clean data structures and separation of c
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/CALVIN-CSX/csv-data-analyzer.git](https://github.com/CALVIN-CSX/csv-data-analyzer.git)
+   git clone https://github.com/CALVIN-CSX/csv-data-analyzer.git
    ```
 2. **Install required dependencies:**
    ```bash
