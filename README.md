@@ -130,4 +130,3 @@ The log covers the architectural problems identified in v1.0, the decisions made
 ## 🤝 Acknowledgments
 
 - **Original v1.0 implementation:** Developed collaboratively with [Gnanav T](https://github.com/gnanavt22).
-- **v2.0 architecture and refactor:** Designed and implemented by [CALVIN-CSX](https://github.com/CALVIN-CSX).
